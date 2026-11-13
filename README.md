@@ -1,10 +1,12 @@
-## Oops, since you've come this far, let me introduce you a little bit about myself 
-### Hi! I'm Erick, and i have a 23 yld👋🤓
+## Oops, since you've come this far, let me introduce you a little bit about myself
+### Hi! I'm Erick, I'm 23 years old 👋🤓
 
 - I'm a Brazilian mechanical engineering student at CTG-UFPE and math lover 🧮
-- I worked as a web dev, full stack
-- ♾️ researcher at RobôCIn, robotics team at CIn-UFPE, in the field of A.I and data science 
-- ♾️ who loves to be always learning and discovering new technologies and applying them in everyday life in a way that can always improve people's lives
+- I worked as a full stack web developer
+- ♾️ Researcher at RobôCIn, the robotics team at CIn-UFPE, in AI and data science
+- ⚙️ Now combining both worlds: CAD automation (Inventor, NX, SolidWorks APIs) and engineering data
+- ♾️ Always learning new technologies and applying them in everyday life to improve people's lives
+- 🤠 The profile picture? Woody, Debian 3.0, my favorite Linux release
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some of the technologies that I have been studying and applying
 
