@@ -19,16 +19,11 @@ Some of the technologies that I have been studying and applying
     <br />
     
 - Machine/Deep learning and Data: <br />
-    <a href= "https://pytorch.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/800px-Pytorch_logo.png" width="120" height="30" /> 
-    </a>
-    <a href = "https://pandas.pydata.org/">
-    <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="100" height="30" />
-    </a>
-    <a href = "https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="120" height="40" />
-    </a> 
+    [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+    [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+    [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
     <br />
+
     
  
   - Tools for data: <br />
