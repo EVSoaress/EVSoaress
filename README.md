@@ -1,5 +1,5 @@
 ## Oops, since you've come this far, let me introduce you a little bit about myself 
-### Hi! I'm Erick, and i have a 19 yld👋🤓
+### Hi! I'm Erick, and i have a 23 yld👋🤓
 
 - I'm a Brazilian mechanical engineering student at CTG-UFPE and math lover 🧮
 - I worked as a web dev, full stack
